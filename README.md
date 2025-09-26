@@ -10,14 +10,14 @@ brew install dmrkv/teximo/teximo
 
 ## What is Teximo?
 
-Teximo is a beautiful macOS menu bar app for keyboard layout switching and text transliteration.
+Teximo is a seamless macOS menu bar app for keyboard layout switching and text transliteration.
 
 ### Features
 
 - **⌘+Shift**: Switch keyboard layouts instantly
 - **Ctrl+Shift**: Transliterate text between English and Russian (Cyrillic)
 - **Smart Detection**: Automatically detects text direction for transliteration
-- **Beautiful UI**: Clean, modern interface with guided setup
+- **Invisible Operation**: Works seamlessly in the background without interrupting your workflow
 
 ### Requirements
 
