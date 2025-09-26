@@ -1,6 +1,6 @@
-# Homebrew Teximo
+# Homebrew Tap for Teximo
 
-This is a [Homebrew](https://brew.sh) tap for Teximo - a beautiful macOS menu bar app for keyboard layout switching and text transliteration.
+This is the Homebrew tap for the Teximo macOS app.
 
 ## Installation
 
@@ -10,22 +10,20 @@ brew install dmrkv/teximo/teximo
 
 ## What is Teximo?
 
-Teximo is a macOS menu bar application that provides:
+Teximo is a beautiful macOS menu bar app for keyboard layout switching and text transliteration.
+
+### Features
 
 - **⌘+Shift**: Switch keyboard layouts instantly
-- **⌥+Shift**: Transliterate text between English and Russian (Cyrillic)
+- **Ctrl+Shift**: Transliterate text between English and Russian (Cyrillic)
 - **Smart Detection**: Automatically detects text direction for transliteration
 - **Beautiful UI**: Clean, modern interface with guided setup
 
-## Requirements
+### Requirements
 
 - macOS 13.0 or later
 - Accessibility permissions (guided setup on first launch)
 
-## Security Note
+## License
 
-When you first launch Teximo, macOS will show a security warning. You'll need to right-click on Teximo.app and select "Open" to bypass this one-time security check.
-
-## More Information
-
-Visit the main project: https://github.com/dmrkv/teximo
+MIT License - see the [main repository](https://github.com/dmrkv/teximo) for details.
